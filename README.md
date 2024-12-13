@@ -7,6 +7,8 @@ We also provide a script to plot all the figures in the paper, [sae_overlap.ipyn
 
 Although the aligment of the SAEs with less than 32k latents is fast, the aligment of the other sizes takes a long time, so we provide the average aligment and the indices in the [alignment](alignment) folder.
 
+All trained SAEs can be found in [HuggingFace](https://huggingface.co/EleutherAI/sae_overlap/tree/main).
+
 # License
 
 Copyright 2024 the EleutherAI Institute
